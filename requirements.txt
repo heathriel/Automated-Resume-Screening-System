@@ -10,4 +10,4 @@ contractions==0.0.21
 textsearch==0.0.17
 inflect==2.1.0
 numpy==1.17.2
-pdfminer.six==20181108
+pdfminer.six==20251107
