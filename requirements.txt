@@ -11,3 +11,5 @@ textsearch==0.0.17
 inflect==2.1.0
 numpy==1.17.2
 pdfminer.six==20181108
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
